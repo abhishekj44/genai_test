@@ -1,0 +1,68 @@
+﻿question,ground_truth
+What is biology,"Biology is the science that studies living organisms and
+their interactions with one another and their
+environments. Science attempts to describe and
+understand the nature of the universe in whole or in
+part. Science has many fields; those fields related to
+the physical world and its phenomena are considered
+natural sciences."
+Name key characteristics of living organisms,"All groups of living organisms share several key characteristics or functions: order, sensitivity or
+response to stimuli, reproduction, adaptation, growth and development, regulation/homeostasis,
+energy processing, and evolution. When viewed together, these eight characteristics serve to
+define life."
+"What is an example of a macromolecule, and what does it contain?","A macromolecule is deoxyribonucleic acid (DNA) (Figure 1.7), which contains the instructions for the functioning of the organism that
+contains it."
+Explain all branches of biology,"Biology is a vast field with many branches and sub-disciplines. Some of these include molecular biology, which focuses on molecular interactions; microbiology, the study of microorganisms; neurobiology, the study of the nervous system; and paleontology, which uses fossils to study life’s history. Other fields include zoology (study of animals), botany (study of plants), biotechnology (creating useful products), ecology (interactions of organisms with their environment), and physiology (functioning of cells, tissues, and organs). Advances in technology, particularly in genetics, have transformed biology, allowing for a deeper understanding of life, human origins, and survival. Knowledge of biology impacts health, food sources, and environmental decisions, highlighting its importance in everyday life and various professional fields"
+What ethics must be followed by scientist in biology,"Scientists must ensure that their efforts do not cause undue damage to humans, animals, or the environment. They
+also must ensure that their research and communications are free of bias and that they properly balance financial,
+legal, safety, replicability, and other considerations. Bioethics is an important and continually evolving field, in which
+researchers collaborate with other thinkers and organizations. They work to define guidelines for current practice,
+and also continually consider new developments and emerging technologies in order to form answers for the years
+and decades to come."
+What is Hypothesis testing,"Biologists study the living world by posing questions about it and seeking science-based responses. This approach
+is common to other sciences as well and is often referred to as the scientific method. The scientific method was
+used even in ancient times, but it was first documented by England’s Sir Francis Bacon (1561–1626) (Figure 1.17),
+who set up inductive methods for scientific inquiry. The scientific method is not exclusively used by biologists but
+can be applied to almost anything as a logical problem-solving method. The scientific process typically starts with an observation (often a problem to be solved) that leads to a question.
+Let’s think about a simple problem that starts with an observation and apply the scientific method to solve the
+problem. One Monday morning, a student arrives at class and quickly discovers that the classroom is too warm. That
+is an observation that also describes a problem: the classroom is too warm. The student then asks a question: “Why
+is the classroom so warm?”
+Recall that a hypothesis is a suggested explanation that can be tested. To solve a problem, several hypotheses may
+be proposed. For example, one hypothesis might be, “The classroom is warm because no one turned on the air
+conditioning.” But there could be other responses to the question, and therefore other hypotheses may be
+proposed. A second hypothesis might be, “The classroom is warm because there is a power failure, and so the air
+conditioning doesn’t work.”
+Once a hypothesis has been selected, a prediction may be made. A prediction is similar to a hypothesis but it
+typically has the format “If . . . then . . . .” For example, the prediction for the first hypothesis might be, “If the
+student turns on the air conditioning, then the classroom will no longer be too warm.”"
+How basic and applied science can work together to solve practical problems,"In case of a cyber security incident, the supplier is required to notify in writing without undue delay and within 24 hours after the supplier becomes aware of or suspects that a security incident has occurred. This notification should include as much information about the security incident as possible. The supplier is also required to assist in documenting any security incidents, take measures to promptly address security incidents, and assist in reporting and responding to investigations from regulatory authorities. If there is a risk to the security of the IT infrastructure and data, the supplier should propose a rectification plan to remedy the security issue. The supplier is also not allowed to make any announcement or public communication about the security incident without AZ's prior written consent."
+"Using examples, explain how biology can be studied
+from a microscopic approach to a global approach.","One example of how basic and applied science can work together to solve practical problems occurred after the
+discovery of DNA structure led to an understanding of the molecular mechanisms governing DNA replication.
+Strands of DNA, unique in every human, are found in our cells, where they provide the instructions necessary for life.
+During DNA replication, new copies of DNA are made, shortly before a cell divides to form new cells. Understanding
+the mechanisms of DNA replication enabled scientists to develop laboratory techniques that are now used to
+identify genetic diseases, pinpoint individuals who were at a crime scene, and determine paternity. Without basic
+science, it is unlikely that applied science could exist."
+"Describe the interrelationship between protons, neutrons, and electrons, and the ways in
+which electrons can be donated or shared between atoms","At its most fundamental level, life is made up of matter. Matter occupies space and has mass. All
+matter is composed of elements, substances that cannot be broken down or transformed
+chemically into other substances. Each element is made of atoms, each with a constant number of
+protons and unique properties. A total of 118 elements have been defined; however, only 92 occur
+naturally, and fewer than 30 are found in living cells. The remaining 26 elements are unstable and,
+therefore, do not exist for very long or are theoretical and have yet to be detected.
+Each element is designated by its chemical symbol (such as H, N, O, C, and Na), and possesses
+unique properties. These unique properties allow elements to combine and to bond with each
+other in specific ways."
+Describe the properties of water that are critical to maintaining life,"Water is essential to life; even minute traces of it on another planet can indicate that life could or did exist on that planet. Water is one of the more abundant molecules in living cells and the one most critical to life as we know it. Approximately 60–70
+percent of your body is made up of water. Without it, life simply would not exist."
+Understand the functions of the four major types of molecules,"There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and
+nucleic acids), and each is an important component of the cell and performs a wide array of functions. Combined,
+these molecules make up the majority of a cell’s dry mass. Biological macromolecules are organic, meaning they
+contain carbon and are bound to hydrogen, and may contain oxygen, nitrogen, and additional minor elements."
+Explain what happens if even one amino acid is substituted for another in a polypeptide chain. Provide a specific example.,"Amino acids are the monomers that make up proteins. The unique sequence and number of amino acids in a polypeptide chain is its primary structure. The unique sequence for every protein is ultimately determined by the gene that encodes the protein. Any change in the gene
+sequence may lead to a different amino acid being added to the polypeptide chain, causing a change in protein
+structure and function. William Warrick Cardozo showed that sickle-cell anemia is caused by a change in protein
+strucure as a result of gene encoding, meaning that it is an inherited disorder"
+Explain at least three functions that lipids serve in plants and/or animals,"Lipids include a diverse group of compounds that are united by a common feature. Lipids are hydrophobic (“waterfearing”), or insoluble in water, because they are nonpolar molecules. This is because they are hydrocarbons that include only nonpolar carbon-carbon or carbon-hydrogen bonds. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of lipids called fats. Lipids also provide insulation from the environment for plants and animals. For example, they help keep aquatic birds and mammals dry because of their water-repelling nature. Lipids are also the building blocks of many hormones and are an important constituent of the plasma membrane. Lipids include fats, oils, waxes, phospholipids, and steroids."

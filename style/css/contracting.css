@@ -1,0 +1,76 @@
+@import url("https://use.typekit.net/qsd6fjc.css");
+
+.css-163ttbj{
+    background-color: #F0F4F9;
+}
+
+header{
+    position: relative;
+}
+
+header::after{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    content: "";
+    background-image: url(logo.png) !important;
+}
+
+.css-10trblm {
+    margin-left: calc(1rem);
+}
+
+.css-1v0mbdj img {
+    width: 50px;
+    position: relative;
+    top: 4px;
+}
+
+h1#contracting-assistant span {
+    font-family: "lexia", serif !important;
+	font-weight: 800;
+    font-size: xx-large;
+	font-style: normal;
+    /* width: 200px;
+    height: 150px;
+    background: url(../assets/logo.png) !important; */
+    /* background-color: red; */
+}
+
+
+.appview-container section.main {position: relative;}
+/* .appview-container section.main::after{
+    position: absolute;
+    width: 320px;
+    height: 39px;
+    left: 50px;
+    top: 15px;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 999999;
+} */
+
+.logo-class {
+    position: absolute;
+    top: -96px;
+    left: -40px;
+    z-index: 999999;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+.stDeployButton {
+    visibility: hidden;
+}
+
+.polygonal-lines {
+    position: absolute;
+    z-index: 999999;
+    right: 4%;
+    top: -315.913666px;
+    width: 590px;
+    height: 370px;
+    transform: matrix(-1, -0.05, 0.05, -1, 0, 0);
+    opacity: 0.25;
+}

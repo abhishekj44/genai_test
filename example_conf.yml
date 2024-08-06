@@ -1,0 +1,40 @@
+VDB:
+  collection: test
+  embedding_config:
+    model_name: text-embedding-ada-002
+    api_version: 2023-12-01-preview
+  partition_config:
+    extract_images_in_pdf: False
+    infer_table_structure: True
+    chunking_strategy: by_title
+    max_characters: 4000
+    new_after_n_chars: 3800,
+    combine_text_under_n_chars: 2000
+    hi_res_model_name: yolox
+    strategy: hi_res
+  chunking_config:
+    overlap: 64
+    max_characters: 512
+
+Retriever:
+  query_config:
+    n_results: 10
+  retrieval_config:
+    reranking:
+      model: cross-encoder/stsb-roberta-base
+      top_k: 5
+
+RAG:
+  client_config:
+    api_version: 2023-12-01-preview
+  model: gpt-35-turbo-16k
+  model_settings:
+    temperature: 0
+  system_prompt_template: "You are a chatbot, able to have normal interactions, as well as talk.  You are an expert on Financial Audit and its ways of working.\nContext information is below.\n--------------------\n{context}\n--------------------\n"
+
+Evaluation:
+  api_version: 2023-12-01-preview
+  model: gpt-35-turbo-16k
+
+Description: A description for the RAG pipeline describing whats different etc
+Eval_Set: vX
